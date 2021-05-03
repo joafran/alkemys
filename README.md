@@ -9,6 +9,6 @@
    - PORT=4000
    - JWT_SECRET=jsonwebtoken_secret
 
-3. Ejecutar npm install .
+3. Ejecutar npm install.
 4. Ejecutar npm run dev.
-5. Ejectar npm test para correr los test.
+5. Ejecutar npm test para correr los test.
